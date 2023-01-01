@@ -166,6 +166,7 @@ function App() {
                     </p>
                 </div>
             </section>
+            <div className="police">© 2022 ясновидящая Азии. Все права защищены</div>
         </div>
     );
 }
