@@ -60,10 +60,11 @@ const arr = [
 function App() {
     return (
         <div className="App">
+          
             <section className="one">
                 <div className="animation_line"></div>
-                <p className="title">Сильнейшая Гадалка</p>
-                <p className="name">Сара</p>
+                <h1 className="title">Сильнейшая Гадалка</h1>
+                <h2 className="name">Сара</h2>
                 <p className="decr">
                     Мои способности и опыт позволяют профессионально выполнить Приворот, отворот, снятие сглаза, порчи, родовых проклятий, наговоров,
                     избавление от одиночества, устранение завистников и недоброжелателей, защита детей, гадание на таро, выливаю на воск.
